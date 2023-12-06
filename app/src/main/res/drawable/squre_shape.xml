@@ -1,0 +1,7 @@
+<!-- res/drawable/circular_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners android:radius="10dp"/>
+
+    <solid android:color="@color/redis" /> <!-- Set background color, or use a gradient -->
+</shape>

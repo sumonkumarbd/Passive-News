@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Passive News</string>
+    <string name="more_news">More news</string>
+    <string name="letest_news">Letest News</string>
+    <string name="demo">demo</string>
+    <string name="title">title</string>
+    <string name="des">Descriptions\n</string>
+    <string name="time_date">time_date</string>
+    <string name="reporting_news">reporting_news</string>
+    <string name="category">Category</string>
+    <string name="flootingbtn">FlootingBtn</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="isExitTitle">Exit from app?</string>
+</resources>
